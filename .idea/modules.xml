@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/MarketplaceImplementation.iml" filepath="$PROJECT_DIR$/MarketplaceImplementation.iml" />
+      <module fileurl="file://$PROJECT_DIR$/StriverA2ZSheet/StriverA2ZSheet.iml" filepath="$PROJECT_DIR$/StriverA2ZSheet/StriverA2ZSheet.iml" />
+    </modules>
+  </component>
+</project>
